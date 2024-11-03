@@ -18,7 +18,7 @@
 <h3 align="left" style="color:#000000;">👨‍💻 About Me:</h3>
 <p style="color:#000000;">I'm a final year Computer Science Engineering student, experienced in Java, MERN stack, system design, and backend development. With a solid foundation in data structures and algorithms, I've worked on various projects, from Spotify Playlist clones to real-time applications like live cricket score trackers.</p>
 
-- 🔭 I’m currently working on **[My Portfolio Website](https://github.com/princekumarram/portfolio-website)**
+- 🔭 I’m currently working on **[My Portfolio Website](princekumarram1.netlify.app/)**
 - 🌱 I’m learning **Advanced React, Node.js, and Microservices architecture**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 💬 Ask me about **Java, React, MongoDB, or System Design**
